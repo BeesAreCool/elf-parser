@@ -37,3 +37,5 @@ examples/segments
 examples/symbols
 examples/relocations
 examples/tests/test1
+
+build/
